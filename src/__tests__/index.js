@@ -1,9 +1,9 @@
 import {createElement, Component} from 'rax';
 import renderer from 'rax-test-renderer';
-import BarCode from '../';
+import Menu from '../';
 
-describe('BarCode', () => {
-  it('test typeof BarCode', () => {
-    expect(typeof BarCode).toEqual('function');
+describe('Menu', () => {
+  it('test typeof Menu', () => {
+    expect(typeof Menu).toEqual('function');
   });
 });
